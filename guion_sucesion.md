@@ -37,7 +37,7 @@ Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuesti�
 ></iframe>
 
 
-![resumen]()
+![resumen](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/main/imagenes/dibujo_sintesis.png)
 
 ## Vídeo de la sesión
 
