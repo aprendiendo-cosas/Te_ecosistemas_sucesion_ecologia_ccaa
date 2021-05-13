@@ -1,10 +1,10 @@
-# Guión de la sesión denominada "Producción primaria"
+# Guión de la sesión denominada "Sucesión ecológica"
 
 
 > + **_Versión_**: 2020-2021
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 50 minutos.
+> + **Duración**: Aproximadamente 2 horas
 
 <img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
