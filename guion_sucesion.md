@@ -25,9 +25,9 @@ De manera más específica, los objetivos de esta sesión son:
 
 
  ## Contenido
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/main/presentacion/sucesion.xmind). Abajo tienes el mismo mapa en formato html y también puedes verlo en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/presentacion/sucesion.html) página.
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/main/presentacion/sucesion.xmind). Abajo tienes el mismo mapa en formato html y también puedes verlo en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/presentacion/Sucesion.html) página.
 
-Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuestión para luego estudiarlo usando las distintas aproximaciones que los científicos han desarrollado a lo largo de los años. Además, analizaremos algunos conceptos clave que son útiles para entender la sucesión. Dichos conceptos son los que denominamos descriptores de la sucesión. A continuación, analizaremos un ejemplo de aplicación del concepto de sucesión: restauración de un bosque quemado. Por último, resumiremos los conceptos descritos anteriormente usando un dibujo a mano alzada. 
+Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuestión para luego estudiarlo usando las distintas aproximaciones que los científicos han desarrollado a lo largo de los años. Además, analizaremos algunos conceptos clave que son útiles para entender la sucesión. Dichos conceptos son los que denominamos descriptores de la sucesión. A continuación, analizaremos un ejemplo de aplicación del concepto de sucesión: restauración de un bosque quemado. Por último, resumiremos los conceptos descritos anteriormente usando un dibujo que pretende "simular" el proceso de sucesión ecológica. 
 
 
 
@@ -37,7 +37,7 @@ Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuesti�
 ></iframe>
 
 
-
+![resumen]()
 
 ## Vídeo de la sesión
 
