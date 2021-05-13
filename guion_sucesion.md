@@ -32,7 +32,7 @@ Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuesti√
 
 
 <iframe
-  src="https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/presentacion/sucesion.html"
+  src="https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/presentacion/Sucesion.html"
   style="width:100%; height:450px;"
 ></iframe>
 
