@@ -1,12 +1,12 @@
 # Guión de la sesión denominada "Sucesión ecológica"
 
 
-> + **_Versión_**: 2020-2021
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas
 
-<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2020-2021/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
 
 
@@ -25,22 +25,17 @@ De manera más específica, los objetivos de esta sesión son:
 
 
  ## Contenido
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2020-2021/presentacion/sucesion.xmind). Abajo tienes el mismo mapa en formato html y también puedes verlo en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2020-2021/presentacion/Sucesion.html) página.
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/presentacion/sucesion.xmind). Abajo tienes el mismo mapa en formato html y también puedes verlo en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2021-2022/presentacion/Sucesion.html) página.
 
 Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuestión para luego estudiarlo usando las distintas aproximaciones que los científicos han desarrollado a lo largo de los años. Además, analizaremos algunos conceptos clave que son útiles para entender la sucesión. Dichos conceptos son los que denominamos descriptores de la sucesión. A continuación, analizaremos un ejemplo de aplicación del concepto de sucesión: restauración de un bosque quemado. Por último, resumiremos los conceptos descritos anteriormente usando un dibujo que pretende "simular" el proceso de sucesión ecológica. 
 
 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2020-2021/presentacion/Sucesion.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2021-2022/presentacion/Sucesion.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 
-![resumen](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2020-2021/imagenes/dibujo_sintesis.png)
+![resumen](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/imagenes/dibujo_sintesis.png)
 
-## Vídeo de la sesión
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gsRPWT71SzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
