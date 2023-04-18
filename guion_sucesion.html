@@ -6,6 +6,7 @@
 <link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
 body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit; background-repeat: inherit; }
 iframe { margin: auto; }
 a.url { word-break: break-all; }
@@ -54,7 +55,7 @@ thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
 table.md-table td { min-width: 32px; }
 .CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
-.CodeMirror-linenumber { }
+.CodeMirror-linenumber { -webkit-user-select: none; }
 .CodeMirror { text-align: left; }
 .CodeMirror-placeholder { opacity: 0.3; }
 .CodeMirror pre { padding: 0px 4px; }
@@ -86,12 +87,14 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print { 
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
   .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
   .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
@@ -129,6 +132,7 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 }
 a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
 .footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
 .md-attr { display: none; }
 .md-fn-count::after { content: "."; }
 code, pre, samp, tt { font-family: var(--monospace); }
@@ -198,6 +202,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
 .typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
 .md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
 
 
 :root {
@@ -589,6 +594,9 @@ header, .context-menu, .megamenu-content, footer{
 </style><title>guion_sucesion</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
-<div id='write'  class=''><h1 id='guión-de-la-sesión-denominada-sucesión-ecológica'><span>Guión de la sesión denominada &quot;Sucesión ecológica&quot;</span></h1><blockquote><ul><li><strong><em><span>Versión</span></em></strong><span>: 2021-2022</span></li><li><strong><em><span>Asignatura (grado)</span></em></strong><span>: Ecología (CCAA)</span></li><li><strong><em><span>Autor</span></em></strong><span>: Curro Bonet-García (fjbonet@uco.es)</span></li><li><strong><span>Duración</span></strong><span>: Aproximadamente 2 horas</span></li></ul></blockquote><p><img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/imagenes/portada.jpg" alt="portada" style="zoom:150%;" /></p><p>&nbsp;</p><h2 id='objetivos'><span>Objetivos </span></h2><p><span>En esta sesión abordamos el concepto de sucesión ecológica. Se trata de una propiedad emergente de los ecosistemas que resulta de la combinación de las dinámicas poblacionales de los individuos que viven en un lugar determinado. Asimismo, la sucesión es un proceso ecológico que se pone de manifiesto cuando en un lugar dado ocurre una perturbación o bien cuando en dicho lugar llegan los seres vivos por primera vez.</span></p><p><span>De manera más específica, los objetivos de esta sesión son:</span></p><ul><li><span>Conocer el concepto de sucesión ecológica como proceso emergente de los ecosistemas.</span></li><li><span>Establecer relaciones entre la sucesión y las dinámicas poblacionales de las especies, así como con los procesos ya estudiados de interacciones intra e interespecíficas. </span></li><li><span>Reconocer a la sucesión ecológica como un proceso que integra en gradiente temporal las dinámicas de las poblaciones y de las comunidades ecológicas.</span></li><li><span>Reconocer las relaciones entre sucesión ecológica y otras propiedades emergentes de los ecosistemas (producción primaria, secundaria, etc.)</span></li><li><span>Conocer la relación entre la sucesión ecológica y las herramientas de restauración de ecosistemas.</span></li></ul><p>&nbsp;</p><h2 id='contenido'><span>Contenido</span></h2><p><span>A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  </span><a href='https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/presentacion/sucesion.xmind'><span>aquí</span></a><span>. Abajo tienes el mismo mapa en formato html y también puedes verlo en </span><a href='https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2021-2022/presentacion/Sucesion.html'><span>esta</span></a><span> página.</span></p><p><span>Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuestión para luego estudiarlo usando las distintas aproximaciones que los científicos han desarrollado a lo largo de los años. Además, analizaremos algunos conceptos clave que son útiles para entender la sucesión. Dichos conceptos son los que denominamos descriptores de la sucesión. A continuación, analizaremos un ejemplo de aplicación del concepto de sucesión: restauración de un bosque quemado. Por último, resumiremos los conceptos descritos anteriormente usando un dibujo que pretende &quot;simular&quot; el proceso de sucesión ecológica. </span></p><p>&nbsp;</p><iframe src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2021-2022/presentacion/Sucesion.html" style="width:100%; height:450px;"></iframe><p>&nbsp;</p><p><img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/imagenes/dibujo_sintesis.png" referrerpolicy="no-referrer" alt="resumen"></p><p>&nbsp;</p></div></div>
+<div id='write'  class=''><h1 id='guión-de-la-sesión-denominada-sucesión-ecológica'><span>Guión de la sesión denominada &quot;Sucesión ecológica&quot;</span></h1><blockquote><ul><li><p><strong><em><span>Versión</span></em></strong><span>: 2022-2023</span></p></li><li><p><strong><em><span>Asignatura (grado)</span></em></strong><span>: Ecología (CCAA)</span></p></li><li><p><strong><em><span>Autor</span></em></strong><span>: Curro Bonet-García (fjbonet@uco.es)</span></p></li><li><p><strong><span>Duración</span></strong><span>: Aproximadamente 2 horas</span></p></li></ul></blockquote><p><img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/imagenes/portada.jpg" alt="portada" style="zoom:150%;" /></p><p>&nbsp;</p><h2 id='objetivos'><span>Objetivos </span></h2><p><span>En esta sesión abordamos el concepto de sucesión ecológica. Se trata de una propiedad emergente de los ecosistemas que resulta de la combinación de las dinámicas poblacionales de los individuos que viven en un lugar determinado. Asimismo, la sucesión es un proceso ecológico que se pone de manifiesto cuando en un lugar dado ocurre una perturbación o bien cuando en dicho lugar llegan los seres vivos por primera vez.</span></p><p><span>De manera más específica, los objetivos de esta sesión son:</span></p><ul><li><p><span>Conocer el concepto de sucesión ecológica como proceso emergente de los ecosistemas.</span></p></li><li><p><span>Establecer relaciones entre la sucesión y las dinámicas poblacionales de las especies, así como con los procesos ya estudiados de interacciones intra e interespecíficas. </span></p></li><li><p><span>Reconocer a la sucesión ecológica como un proceso que integra en gradiente temporal las dinámicas de las poblaciones y de las comunidades ecológicas.</span></p></li><li><p><span>Reconocer las relaciones entre sucesión ecológica y otras propiedades emergentes de los ecosistemas (producción primaria, secundaria, etc.)</span></p></li><li><p><span>Conocer la relación entre la sucesión ecológica y las herramientas de restauración de ecosistemas.</span></p></li></ul><p>&nbsp;</p><h2 id='contenido'><span>Contenido</span></h2><p><span>A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  </span><a href='https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/presentacion/sucesion.xmind'><span>aquí</span></a><span>. Abajo tienes el mismo mapa en formato html y también puedes verlo en </span><a href='https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2021-2022/presentacion/Sucesion.html'><span>esta</span></a><span> página.</span></p><p><span>Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuestión para luego estudiarlo usando las distintas aproximaciones que los científicos han desarrollado a lo largo de los años. Además, analizaremos algunos conceptos clave que son útiles para entender la sucesión. Dichos conceptos son los que denominamos descriptores de la sucesión. A continuación, analizaremos un ejemplo de aplicación del concepto de sucesión: restauración de un bosque quemado. Por último, resumiremos los conceptos descritos anteriormente usando un dibujo que pretende &quot;simular&quot; el proceso de sucesión ecológica. </span></p><p>&nbsp;</p><iframe
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2021-2022/presentacion/Sucesion.html"
+  style="width:100%; height:450px;"
+></iframe><p>&nbsp;</p><p><img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2021-2022/imagenes/dibujo_sintesis.png" referrerpolicy="no-referrer" alt="resumen"></p><p>&nbsp;</p></div></div>
 </body>
 </html>

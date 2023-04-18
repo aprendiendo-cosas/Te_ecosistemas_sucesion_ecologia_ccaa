@@ -1,7 +1,7 @@
 # Guión de la sesión denominada "Sucesión ecológica"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas
