@@ -1,7 +1,7 @@
 # Guión de la sesión denominada "Sucesión ecológica"
 
 
-> + **_Versión_**: 2022-2023
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas
@@ -16,7 +16,7 @@ En esta sesión abordamos el concepto de sucesión ecológica. Se trata de una p
 
 De manera más específica, los objetivos de esta sesión son:
 
- + Conocer el concepto de sucesión ecológica como proceso emergente de los ecosistemas.
+ + Conocer el concepto de sucesión ecológica como propiedad emergente de los ecosistemas.
  + Establecer relaciones entre la sucesión y las dinámicas poblacionales de las especies, así como con los procesos ya estudiados de interacciones intra e interespecíficas. 
  + Reconocer a la sucesión ecológica como un proceso que integra en gradiente temporal las dinámicas de las poblaciones y de las comunidades ecológicas.
  + Reconocer las relaciones entre sucesión ecológica y otras propiedades emergentes de los ecosistemas (producción primaria, secundaria, etc.)
