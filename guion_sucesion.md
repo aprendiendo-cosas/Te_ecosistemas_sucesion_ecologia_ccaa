@@ -6,8 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas
 
-<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
-
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/refs/tags/2023_2024/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
 
 ## Objetivos 
@@ -25,17 +24,20 @@ De manera más específica, los objetivos de esta sesión son:
 
 
  ## Contenido
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/main/presentacion/sucesion.xmind). Abajo tienes el mismo mapa en formato html y también puedes verlo en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/main/presentacion/Sucesion.html) página.
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/2023_2024/presentacion/sucesion.xmind). Abajo tienes el mismo mapa en formato html y también puedes verlo en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2023_2024/presentacion/Sucesion.html) página.
 
 Como hemos hecho en muchas ocasiones, primero definiremos el concepto en cuestión para luego estudiarlo usando las distintas aproximaciones que los científicos han desarrollado a lo largo de los años. Además, analizaremos algunos conceptos clave que son útiles para entender la sucesión. Dichos conceptos son los que denominamos descriptores de la sucesión. A continuación, analizaremos un ejemplo de aplicación del concepto de sucesión: restauración de un bosque quemado. Por último, resumiremos los conceptos descritos anteriormente usando un dibujo que pretende "simular" el proceso de sucesión ecológica. 
 
 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/main/presentacion/Sucesion.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2023_2024/presentacion/Sucesion.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 
-![resumen](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/raw/main/imagenes/dibujo_sintesis.png)
+![resumen_digital](https://raw.githubusercontent.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/refs/tags/2023_2024/imagenes/dibujo_sintesis.png)
 
+La siguiente imagen muestra el dibujo realizado en la pantalla durante la explicación:
+
+![resumen_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/refs/tags/2023_2024/imagenes/dibujo_sintesis_pizarra.jpg)
